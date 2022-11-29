@@ -1,0 +1,11 @@
+Age,PC/Mac/Other,Phone,Employed,PCCycle(yrs),PhoneCycle(yrs),DIYRepairs,PurchaseWarranty,OwnVehicle,DIYMaintenance
+31,Other,iPhone,False,3,2,True,True,False,False
+51,Other,iPhone,False,2,3,False,True,False,True
+53,Other,iPhone,False,2,1,True,True,False,False
+51,Mac,iPhone,True,4,3,False,False,False,False
+45,Other,Android,True,2,1,True,False,True,False
+58,PC,iPhone,False,3,0,True,True,True,True
+20,PC,Android,False,4,4,False,True,False,False
+51,Mac,Android,False,1,0,False,False,False,False
+61,Mac,Android,True,3,0,True,False,True,True
+33,Mac,iPhone,True,2,2,False,True,True,True
