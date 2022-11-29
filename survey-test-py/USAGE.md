@@ -10,7 +10,3 @@ Creates "random" generated results for a survey.
     $ python3 ./main.py
 
 Change header output to your own needs. Then changeth
-
-
-
-## h
